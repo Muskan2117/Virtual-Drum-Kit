@@ -83,3 +83,6 @@ background-image: url("images/kick.png");
    color: rgba(255,255,255,0.8);
    display: inline-block;
  }
+i:hover{
+   color: rgba(0,205,200,0.5);
+ }
